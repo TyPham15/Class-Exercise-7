@@ -1,0 +1,16 @@
+January: 50.0 inches
+February: 15.0 inches
+March: 30.0 inches
+April: 40.0 inches
+May: 50.0 inches
+June: 60.0 inches
+July: 70.0 inches
+August: 20.0 inches
+September: 30.0 inches
+October: 30.0 inches
+November: 40.0 inches
+December: 45.0 inches
+Total rain: 480.0 inches
+Average rain: 40.0 inches
+The month with the lowest amount of rain was: February, 15.0 inches
+The month with the highest amount of rain was: July, 70.0 inches
